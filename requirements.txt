@@ -1,0 +1,9 @@
+aiohttp
+asyncio
+selenium
+requests
+python-dotenv
+Pillow
+opencv-python-headless
+numpy
+webdriver-manager
